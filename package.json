@@ -1,0 +1,21 @@
+{
+  "name": "task_4_cruds-_by_fs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node productModel.js",
+    "server": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.4.0",
+    "node": "^26.9.0",
+    "nodemon": "^3.1.14"
+  }
+}
